@@ -40,7 +40,7 @@ For more details, please go Tableau Dashboard link given below -
 
 # 🏽‍ Conclusions
 * Sales were rapidly decreasing in 2020 compared to 2019 by around 42.27%.
-* In the Year 2020, the overall sales declined by 57.32%.
+* In the Year 2020, the overall sales declined by 57.32% in between January to June.
 * Highest revenue generated from Markets such as Delhi NCR, Mumbai, Ahmedabad, Bhopal, Nagpur, and so on.
 * Highest quantities sold in the Market such as Delhi NCR, Mumbai, Nagpur, Kochi, Ahmedabad, and so on.
 * Majority of the sales were takes place in the month of January followed by November and March.
