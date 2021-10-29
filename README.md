@@ -45,7 +45,7 @@ For more details, please go Tableau Dashboard link given below -
 * Highest quantities sold in the Market such as Delhi NCR, Mumbai, Nagpur, Kochi, Ahmedabad, and so on.
 * Majority of the sales were takes place in the month of January followed by November and March.
 
-# 🏽‍ Help Me Improve
+# 🎉 Help Me Improve
 Hello Mr. Reader, if you find any bug or anything else that could add more value in this project then please consider raising it to me I will address them asap.
   
 # 📫 Feedback
